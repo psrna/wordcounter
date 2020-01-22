@@ -1,7 +1,7 @@
 package com.redhat.app;
 
 /**
- * Hello world!
+ * Counts number of words across files specified as arguments.
  *
  */
 public class WordCounter 
@@ -10,6 +10,4 @@ public class WordCounter
     {
         System.out.println( "Hello World!" );
     }
-
-    
 }
