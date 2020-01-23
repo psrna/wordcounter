@@ -4,8 +4,8 @@ Counts number of words across files specified as arguments.
 
 # Requirements
 
-- JDK 8
-- Maven 3.5
+- JDK
+- Maven
 
 ### Build the app:
 
