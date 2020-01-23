@@ -6,6 +6,7 @@ Counts number of words across files specified as arguments.
 
 - JDK
 - Maven
+- Chrome (for Eclipse Che)
 
 ### Build the app:
 
@@ -31,4 +32,8 @@ example: 3
 - implement a test 
 - commit your work as you proceed through the tasks, we are interested to see your progress
 - once done, send a merge request 
+
+# Optional
+
+- you can try to solve the task using Eclipse Che here: [https://che.openshift.io/f/?url=https://raw.githubusercontent.com/psrna/wordcounter/devfile/devfile.yaml](https://che.openshift.io/f/?url=https://raw.githubusercontent.com/psrna/wordcounter/devfile/devfile.yaml)
 
