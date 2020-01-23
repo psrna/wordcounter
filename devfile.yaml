@@ -46,7 +46,7 @@ commands:
         type: exec
         component: maven
         command: "mvn clean install"
-        workdir: ${CHE_PROJECTS_ROOT}/console-java-simple
+        workdir: ${CHE_PROJECTS_ROOT}/wordcounter
   -
     name: maven build and run
     actions:
@@ -54,4 +54,4 @@ commands:
         type: exec
         component: maven
         command: "mvn clean install && java -jar ./target/*.jar"
-        workdir: ${CHE_PROJECTS_ROOT}/console-java-simple
+        workdir: ${CHE_PROJECTS_ROOT}/wordcounter
